@@ -5,7 +5,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'routing/app_router.dart';
 import 'routing/routes.dart';
 
-// import the configuration file you generated using Firebase CLI
+//TODO import the configuration file you generated using Firebase CLI
 import 'firebase_options.dart';
 
 late String initialRoute;
